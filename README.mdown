@@ -1,0 +1,13 @@
+webOS News App - by Mitch Allen
+===============================
+
+This application is a news reader app that Mitch Allen (Palm's Software CTO) uses to explore webOS in the O'Reilly book on Palm webOS (http://oreilly.com/catalog/9780596155261).
+
+How do I install this app?
+--------------------------
+
+Once you download it (e.g. git clone it) and you [install the webOS SDK](http://developer.palm.com/index.php?option=com_ajaxregister&view=register&sdkdownload) you are ready to build the application:
+
+* palm-package /path/to/downloaded/webos-newsapp
+* palm-install
+
