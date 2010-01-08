@@ -3,8 +3,6 @@ webOS News App - by Mitch Allen
 
 This application is a news reader app that Mitch Allen (Palm's Software CTO) uses to explore webOS in the O'Reilly book on Palm webOS (http://oreilly.com/catalog/9780596155261).
 
-License:  BSD (see LICENSE file)
-
 How do I install this app?
 --------------------------
 
